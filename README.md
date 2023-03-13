@@ -39,5 +39,5 @@ pip install -r requiments.txt
 ## disclaimer n ps
 again, this report does not confirm anything true for all cases. <br/>
 through this report, we should learn that each sorting algorithm has it strength and weakness. <br/>
-so we can not jugde anything just by some aspects. Some may the worst in this situation but they may also be the best in another
+so we can not jugde anything just by some aspects. Some may the worst in this situation but they may also be the best in another. <br/>
 thanks for reading to this the end line of file. i'm appreciate it.
